@@ -1,0 +1,15 @@
+date:              2026-09-22T23:34:55+00:00
+kernel:            7.2.6-arch2-1
+cmdline:           initrd=\initramfs-linux.img root=PARTUUID=51a51a29-35b3-4c3f-8bff-8e0e29d12b22 zswap.enabled=0 rw rootfstype=ext4 isolcpus=3,7 nohz_full=3,7 rcu_nocbs=3,7 console=tty0 console=ttyS0,115200
+cpu model:         Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
+microcode:         0xf0
+governor:          performance
+no_turbo:          1
+smt:               off
+isolated:          3,7
+aslr:              2
+kvm_intel loaded:  no
+measurement cpu:   3
+cpu3 freq (kHz): 800000
+warnings:          0
+failures:          0
